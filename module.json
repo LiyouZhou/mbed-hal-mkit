@@ -1,0 +1,31 @@
+{
+  "name": "mbed-hal-mkit",
+  "version": "0.0.1",
+  "description": "mbed HAL for Nordic mkit BLE board",
+  "private": true,
+  "keywords": [
+    "mbed",
+    "hal",
+    "mkit",
+    "nordic",
+    "nrf51822"
+  ],
+  "author": "rohit.grover@arm.com",
+  "repository": {
+    "url": "https://github.com/ARMmbed/mbed-hal-nordic-mkit.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/ARMmbed/mbed-hal-nordic-mkit",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "extraIncludes": [
+  "mbed-hal-mkit"
+  ],
+  "dependencies": {
+    "mbed-hal-nrf51822-mcu": "~0.0.1"
+  }
+}
