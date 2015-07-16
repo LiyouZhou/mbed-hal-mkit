@@ -23,7 +23,7 @@
     }
   ],
   "extraIncludes": [
-  "mbed-hal-mkit"
+    "mbed-hal-mkit"
   ],
   "dependencies": {
     "mbed-hal-nrf51822-mcu": "~0.0.1"
