@@ -52,6 +52,8 @@
 
 #define DEVICE_ERROR_PATTERN    1
 
+#define DEVICE_LOWPOWERTIMER    1
+
 #include "objects.h"
 
 #endif
