@@ -12,10 +12,10 @@
   ],
   "author": "rohit.grover@arm.com",
   "repository": {
-    "url": "https://github.com/ARMmbed/mbed-hal-nordic-mkit.git",
+    "url": "https://github.com/ARMmbed/mbed-hal-mkit.git",
     "type": "git"
   },
-  "homepage": "https://github.com/ARMmbed/mbed-hal-nordic-mkit",
+  "homepage": "https://github.com/ARMmbed/mbed-hal-mkit",
   "licenses": [
     {
       "url": "https://spdx.org/licenses/Apache-2.0",
