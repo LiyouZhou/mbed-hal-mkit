@@ -1,6 +1,6 @@
 {
   "name": "mbed-hal-mkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mbed HAL for Nordic mkit BLE board",
   "keywords": [
     "mbed",
