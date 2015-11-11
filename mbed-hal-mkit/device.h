@@ -54,6 +54,4 @@
 
 #define DEVICE_LOWPOWERTIMER    1
 
-#include "objects.h"
-
 #endif
